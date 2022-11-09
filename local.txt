@@ -1,0 +1,13 @@
+https://lxv6081.allstate.com:21143/manufacturedhome-presentation-services/ping.html 
+https://lxv6081.allstate.com:21143/manufacturedhome-product-services/ping.html 
+https://lxv6081.allstate.com:21143/ManufacturedhomeWEB/ping.html 
+https://lxv6081.allstate.com:21143/motorcycle-presentation-services/ping.html 
+https://lxv6081.allstate.com:21143/motorcycle-product-services/ping.html 
+https://lxv6081.allstate.com:21143/MotorcycleWEB/ping.html 
+https://lxv6081.allstate.com:21143/PersonalUmbrellaWEB/ping.html 
+https://lxv6081.allstate.com:21143/product-services/ping.html 
+https://lxv6081.allstate.com:21143/prop-product-acord-services/ping.html 
+https://lxv6081.allstate.com:21143/property-presentation-services/ping.html 
+https://lxv6081.allstate.com:21143/pt-acord-service-proxy/ping.html 
+https://lxv6081.allstate.com:21143/pup-product-services/ping.htm 
+https://lxv6081.allstate.com:21143/SupportUtils/ping.html 
